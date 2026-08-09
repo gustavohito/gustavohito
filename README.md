@@ -7,110 +7,147 @@ Possuo sólida experiência na implantação de arquiteturas de alta disponibili
 Ao longo da minha carreira participei da liderança e execução de projetos voltados para modernização de ambientes, transformação digital, automação, continuidade de negócios e proteção de ativos de TI, sempre com foco em desempenho, disponibilidade, escalabilidade e segurança.
 
 ---
+👋 Gustavo Afonso Hito
+Especialista em Infraestrutura de TI | Redes | Cybersecurity | Cloud
 
-# 🚀 Especialidades
+Profissional de Tecnologia da Informação com mais de 28 anos de experiência, atuando em infraestrutura, redes corporativas, segurança da informação, servidores, virtualização, monitoramento e ambientes híbridos.
 
-- Infraestrutura Corporativa
-- Redes Corporativas
-- Segurança da Informação (Cybersecurity)
-- Cloud Computing
-- Virtualização
-- Alta Disponibilidade
-- DevOps
-- Automação de Infraestrutura
+Experiência prática com Linux, FreeBSD, Windows Server, MikroTik, Cisco, Fortinet, OPNsense, pfSense, Proxmox e Microsoft Azure, além de soluções de monitoramento, segurança, backup e automação de infraestrutura.
 
----
+🚀 Especialidades
+Infraestrutura Corporativa
+Redes Corporativas
+Segurança da Informação (Cybersecurity)
+Cloud Computing
+Ambientes Híbridos
+Virtualização
+Alta Disponibilidade
+Monitoramento de Infraestrutura
+Backup e Disaster Recovery
+DevOps
+Automação de Infraestrutura
+Infrastructure as Code (IaC)
+💻 Tecnologias
+☁️ Cloud & Microsoft Azure
+Microsoft Azure
+Azure Arc
+Azure Monitor
+Azure Backup
+Ambientes Híbridos
+Integração On-Premises + Cloud
+🖥️ Sistemas Operacionais
+Linux
+Windows Server
+FreeBSD
+🌐 Redes Corporativas
+MikroTik / RouterOS
+Cisco
+Switching
+Routing
+VLANs
+ACLs
+TCP/IP
+VPN
+NAT
+DNS
+DHCP
+QoS
+Segmentação de Redes
+Troubleshooting
+🔥 Firewalls
+Cisco ASA
+Fortinet
+OPNsense
+pfSense
+🛡️ Cybersecurity
+Wazuh SIEM
+Suricata IDS/IPS
+Hardening
+Vulnerability Assessment
+MITRE ATT&CK
+Network Security
+Endpoint Security
+LGPD
+🏢 Infraestrutura Microsoft
+Active Directory
+Group Policy (GPO)
+DNS
+DHCP
+DFS
+PKI
+Hyper-V
+🖥️ Virtualização & Containers
+Proxmox VE
+Hyper-V
+Docker
+Kubernetes
+📊 Monitoramento & Observabilidade
+Zabbix
+Wazuh
+Grafana
+InfluxDB
+GLPI
+💾 Backup & Continuidade
+Veeam
+Acronis
+Bacula
+Backup Corporativo
+Disaster Recovery
+Continuidade de Negócios
+⚙️ Automação & DevOps
+PowerShell
+Bash
+Python
+Git
+GitHub
+Terraform
+Infrastructure as Code
+DevSecOps
+🎯 Atualmente
 
-# 💻 Tecnologias
+Atualmente concentro meus estudos, projetos e laboratórios em:
 
-### ☁️ Cloud
+Microsoft Azure
+Cybersecurity
+MikroTik / RouterOS
+Cisco Enterprise Networking
+Wazuh SIEM
+Zabbix Monitoring
+OPNsense
+Kubernetes
+Terraform
+Infrastructure as Code (IaC)
+DevSecOps
+Ambientes Híbridos
+🧪 Projetos & Laboratórios
 
-- Microsoft Azure
-- Azure Arc
-- Azure Monitor
-- Azure Backup
+Utilizo este GitHub para compartilhar projetos, laboratórios, automações, configurações e estudos relacionados a:
 
-### 🖥️ Sistemas Operacionais
-
-- Linux
-- Windows Server
-- FreeBSD
-
-### 🌐 Redes Corporativas
-
-- Cisco (Switching, Routing, VLANs, ACLs)
-- TCP/IP
-- VPN
-- DNS
-- DHCP
-- Roteamento
-- Segmentação de Redes
-
-### 🔥 Firewalls
-
-- Cisco ASA
-- Fortinet
-- OPNsense
-- pfSense
-
-### 🛡️ Cybersecurity
-
-- Wazuh SIEM
-- Suricata IDS/IPS
-- Hardening
-- Vulnerability Assessment
-- MITRE ATT&CK
-- LGPD
-
-### 🏢 Infraestrutura Microsoft
-
-- Active Directory
-- Group Policy (GPO)
-- DNS
-- DHCP
-- DFS
-- PKI
-- Hyper-V
-
-### 🐳 Virtualização e Containers
-
-- Proxmox VE
-- Docker
-- Kubernetes
-
-### ⚙️ Automação
-
-- PowerShell
-- Bash
-- Python
-- Git
-- GitHub
-
----
-
-# 🎯 Atualmente
-
-Atualmente concentro meus estudos e projetos em:
-
-- Microsoft Azure
-- Cybersecurity
-- Cisco Enterprise Networking
-- Wazuh SIEM
-- OPNsense
-- Kubernetes
-- Terraform
-- Infrastructure as Code (IaC)
-- DevSecOps
-
----
-
-# 🎣 Hobbies
+🌐 Redes e infraestrutura
+🔥 Firewalls e segurança
+🛡️ Wazuh SIEM
+📊 Zabbix
+☁️ Microsoft Azure
+🐧 Linux
+🖥️ Proxmox
+🐳 Containers
+⚙️ Automação
+🔐 Cybersecurity
+💾 Backup e Disaster Recovery
+📚 Formação & Certificações
+Microsoft Azure AZ-900
+Linux Essentials
+Estudos em Azure
+Estudos em Redes e MikroTik
+Estudos em Cybersecurity
+Estudos em Infraestrutura e Cloud Computing
+🎣 Hobbies
 
 Fora da tecnologia, gosto de atividades que desenvolvem disciplina, estratégia e concentração.
 
-- 🎣 Pescaria
-- 🥋 Taekwondo
-- 🥋 Kung Fu
-- 🥊 Muay Thai
+🎣 Pescaria
+🥋 Taekwondo
+🥋 Kung Fu
+🥊 Muay Thai
 
-Acredito que disciplina, aprendizado contínuo e resiliência são competências essenciais tanto na vida pessoal quanto na construção de ambientes de TI seguros e confiáveis.
+Acredito que disciplina, aprendizado contínuo e resiliência são competências importantes tanto na vida pessoal quanto na construção e administração de ambientes de TI seguros, estáveis e preparados para o futuro.confiáveis.
