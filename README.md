@@ -27,6 +27,7 @@ Backup e Disaster Recovery
 DevOps
 Automação de Infraestrutura
 Infrastructure as Code (IaC)
+
 💻 Tecnologias
 ☁️ Cloud & Microsoft Azure
 Microsoft Azure
@@ -35,10 +36,12 @@ Azure Monitor
 Azure Backup
 Ambientes Híbridos
 Integração On-Premises + Cloud
+
 🖥️ Sistemas Operacionais
 Linux
 Windows Server
 FreeBSD
+
 🌐 Redes Corporativas
 MikroTik / RouterOS
 Cisco
@@ -54,11 +57,13 @@ DHCP
 QoS
 Segmentação de Redes
 Troubleshooting
+
 🔥 Firewalls
 Cisco ASA
 Fortinet
 OPNsense
 pfSense
+
 🛡️ Cybersecurity
 Wazuh SIEM
 Suricata IDS/IPS
@@ -68,6 +73,7 @@ MITRE ATT&CK
 Network Security
 Endpoint Security
 LGPD
+
 🏢 Infraestrutura Microsoft
 Active Directory
 Group Policy (GPO)
@@ -76,6 +82,7 @@ DHCP
 DFS
 PKI
 Hyper-V
+
 🖥️ Virtualização & Containers
 Proxmox VE
 Hyper-V
@@ -87,6 +94,7 @@ Wazuh
 Grafana
 InfluxDB
 GLPI
+
 💾 Backup & Continuidade
 Veeam
 Acronis
@@ -94,6 +102,7 @@ Bacula
 Backup Corporativo
 Disaster Recovery
 Continuidade de Negócios
+
 ⚙️ Automação & DevOps
 PowerShell
 Bash
@@ -103,6 +112,7 @@ GitHub
 Terraform
 Infrastructure as Code
 DevSecOps
+
 🎯 Atualmente
 
 Atualmente concentro meus estudos, projetos e laboratórios em:
